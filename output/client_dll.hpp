@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-05-29 00:35:25.310759100 UTC
+// 2026-06-04 18:31:53.259824900 UTC
 
 #pragma once
 
@@ -9,7 +9,7 @@
 namespace cs2_dumper {
     namespace schemas {
         // Module: client.dll
-        // Class count: 535
+        // Class count: 549
         // Enum count: 12
         namespace client_dll {
             // Alignment: 4
@@ -5813,6 +5813,62 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_PreGenerationKVs = 0x18; // KeyValues3
                 constexpr std::ptrdiff_t m_FinalKVs = 0x58; // KeyValues3
                 constexpr std::ptrdiff_t m_vecGeneratedTextures = 0x80; // CUtlVector<GeneratedTextureHandle_t>
+            }
+            // Parent: None
+            // Field count: 0
+            namespace PF_TYPE_LITERAL {
+            }
+            // Parent: None
+            // Field count: 0
+            namespace _ {
+            }
+            // Parent: None
+            // Field count: 0
+            namespace PF_BIAS_TYPE_STANDARD {
+            }
+            // Parent: None
+            // Field count: 0
+            namespace PF_NOISE_TURB_NONE {
+            }
+            // Parent: None
+            // Field count: 0
+            namespace _ {
+            }
+            // Parent: None
+            // Field count: 0
+            namespace PF_NOISE_MODIFIER_NONE {
+            }
+            // Parent: None
+            // Field count: 0
+            namespace PF_MAP_TYPE_DIRECT {
+            }
+            // Parent: None
+            // Field count: 0
+            namespace PF_INPUT_MODE_CLAMPED {
+            }
+            // Parent: None
+            // Field count: 0
+            namespace PF_NOISE_TYPE_PERLIN {
+            }
+            // Parent: None
+            // Field count: 0
+            namespace _ {
+            }
+            // Parent: None
+            // Field count: 0
+            namespace PVEC_TYPE_LITERAL {
+            }
+            // Parent: None
+            // Field count: 0
+            namespace _ {
+            }
+            // Parent: None
+            // Field count: 0
+            namespace PF_NOISE_MODIFIER_NONE {
+            }
+            // Parent: None
+            // Field count: 0
+            namespace _P__U_ {
             }
         }
     }

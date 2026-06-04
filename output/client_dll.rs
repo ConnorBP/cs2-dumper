@@ -1,12 +1,12 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-05-29 00:35:25.310759100 UTC
+// 2026-06-04 18:31:53.259824900 UTC
 
 #![allow(non_upper_case_globals, non_camel_case_types, non_snake_case, unused)]
 
 pub mod cs2_dumper {
     pub mod schemas {
         // Module: client.dll
-        // Class count: 535
+        // Class count: 549
         // Enum count: 12
         pub mod client_dll {
             // Alignment: 4
@@ -5822,6 +5822,62 @@ pub mod cs2_dumper {
                 pub const m_PreGenerationKVs: usize = 0x18; // KeyValues3
                 pub const m_FinalKVs: usize = 0x58; // KeyValues3
                 pub const m_vecGeneratedTextures: usize = 0x80; // CUtlVector<GeneratedTextureHandle_t>
+            }
+            // Parent: None
+            // Field count: 0
+            pub mod PF_TYPE_LITERAL {
+            }
+            // Parent: None
+            // Field count: 0
+            pub mod _ {
+            }
+            // Parent: None
+            // Field count: 0
+            pub mod PF_BIAS_TYPE_STANDARD {
+            }
+            // Parent: None
+            // Field count: 0
+            pub mod PF_NOISE_TURB_NONE {
+            }
+            // Parent: None
+            // Field count: 0
+            pub mod _ {
+            }
+            // Parent: None
+            // Field count: 0
+            pub mod PF_NOISE_MODIFIER_NONE {
+            }
+            // Parent: None
+            // Field count: 0
+            pub mod PF_MAP_TYPE_DIRECT {
+            }
+            // Parent: None
+            // Field count: 0
+            pub mod PF_INPUT_MODE_CLAMPED {
+            }
+            // Parent: None
+            // Field count: 0
+            pub mod PF_NOISE_TYPE_PERLIN {
+            }
+            // Parent: None
+            // Field count: 0
+            pub mod _ {
+            }
+            // Parent: None
+            // Field count: 0
+            pub mod PVEC_TYPE_LITERAL {
+            }
+            // Parent: None
+            // Field count: 0
+            pub mod _ {
+            }
+            // Parent: None
+            // Field count: 0
+            pub mod PF_NOISE_MODIFIER_NONE {
+            }
+            // Parent: None
+            // Field count: 0
+            pub mod _P__U_ {
             }
         }
     }
