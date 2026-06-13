@@ -1,12 +1,12 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-06-13 01:59:35.542883300 UTC
+// 2026-06-12 17:56:31.944775100 UTC
 
 pub const cs2_dumper = struct {
     pub const schemas = struct {
-        // Module: rendersystemdx11.dll
+        // Module: rendersystemempty.dll
         // Class count: 8
         // Enum count: 8
-        pub const rendersystemdx11_dll = struct {
+        pub const rendersystemempty_dll = struct {
             // Alignment: 4
             // Member count: 14
             pub const RenderPrimitiveType_t = enum(u32) {

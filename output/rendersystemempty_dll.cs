@@ -1,11 +1,11 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-06-13 01:59:35.542883300 UTC
+// 2026-06-12 17:56:31.944775100 UTC
 
 namespace CS2Dumper.Schemas {
-    // Module: rendersystemdx11.dll
+    // Module: rendersystemempty.dll
     // Class count: 8
     // Enum count: 8
-    public static class Rendersystemdx11Dll {
+    public static class RendersystememptyDll {
         // Alignment: 4
         // Member count: 14
         public enum RenderPrimitiveType_t : uint {

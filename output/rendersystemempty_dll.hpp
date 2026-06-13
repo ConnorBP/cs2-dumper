@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-06-13 01:59:35.542883300 UTC
+// 2026-06-12 17:56:31.944775100 UTC
 
 #pragma once
 
@@ -8,10 +8,10 @@
 
 namespace cs2_dumper {
     namespace schemas {
-        // Module: rendersystemdx11.dll
+        // Module: rendersystemempty.dll
         // Class count: 8
         // Enum count: 8
-        namespace rendersystemdx11_dll {
+        namespace rendersystemempty_dll {
             // Alignment: 4
             // Member count: 14
             enum class RenderPrimitiveType_t : uint32_t {

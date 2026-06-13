@@ -1,10 +1,10 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-06-04 18:31:53.259824900 UTC
+// 2026-06-13 01:59:35.542883300 UTC
 
 pub const cs2_dumper = struct {
     pub const schemas = struct {
         // Module: client.dll
-        // Class count: 549
+        // Class count: 535
         // Enum count: 12
         pub const client_dll = struct {
             // Alignment: 4
@@ -5808,62 +5808,6 @@ pub const cs2_dumper = struct {
                 pub const m_PreGenerationKVs: usize = 0x18; // KeyValues3
                 pub const m_FinalKVs: usize = 0x58; // KeyValues3
                 pub const m_vecGeneratedTextures: usize = 0x80; // CUtlVector<GeneratedTextureHandle_t>
-            };
-            // Parent: None
-            // Field count: 0
-            pub const PF_TYPE_LITERAL = struct {
-            };
-            // Parent: None
-            // Field count: 0
-            pub const _ = struct {
-            };
-            // Parent: None
-            // Field count: 0
-            pub const PF_BIAS_TYPE_STANDARD = struct {
-            };
-            // Parent: None
-            // Field count: 0
-            pub const PF_NOISE_TURB_NONE = struct {
-            };
-            // Parent: None
-            // Field count: 0
-            pub const _ = struct {
-            };
-            // Parent: None
-            // Field count: 0
-            pub const PF_NOISE_MODIFIER_NONE = struct {
-            };
-            // Parent: None
-            // Field count: 0
-            pub const PF_MAP_TYPE_DIRECT = struct {
-            };
-            // Parent: None
-            // Field count: 0
-            pub const PF_INPUT_MODE_CLAMPED = struct {
-            };
-            // Parent: None
-            // Field count: 0
-            pub const PF_NOISE_TYPE_PERLIN = struct {
-            };
-            // Parent: None
-            // Field count: 0
-            pub const _ = struct {
-            };
-            // Parent: None
-            // Field count: 0
-            pub const PVEC_TYPE_LITERAL = struct {
-            };
-            // Parent: None
-            // Field count: 0
-            pub const _ = struct {
-            };
-            // Parent: None
-            // Field count: 0
-            pub const PF_NOISE_MODIFIER_NONE = struct {
-            };
-            // Parent: None
-            // Field count: 0
-            pub const _P__U_ = struct {
             };
         };
     };
